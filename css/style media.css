@@ -1,0 +1,189 @@
+@media (min-width: 768px) and (max-width: 992px){
+	.header-container {
+		height: 80px;
+	}
+	.header-laber {
+		font-size: 1.1rem;
+	}
+	.button-cicle {
+		width: 20px;
+		height: 20px;
+	}
+	.dock-element1-header {
+		font-size: 0.9rem;
+	}
+	.dock-element1-footer {
+		font-size: 1rem;	
+	}
+	.dock-element2-top {
+		height: 15%;
+		font-size: 0.7rem;
+	}
+	.text-top-header {
+		width: 96%;
+		height: 100%;
+		word-wrap: break-word;
+	}
+	.dock-element2-bottom {
+		height: 80%;
+		font-size: 0.7rem;
+	}
+	.navigation-country {
+		width: 75%;
+		font-size: 0.55rem;
+	}
+	.dock-element2-bottom-text {
+		height: 13%;
+	}
+	.name-legend {
+		font-size: 1rem;
+	}
+	.cicle-red, .cicle-green,.cicle-yellow {
+		width: 18px;
+		height: 18px;
+	}
+	.text-legend {
+		font-size: 0.9rem;
+	}
+	.navigation-map {
+		font-size: 0.7rem;
+	}
+	.search-box input {
+		width: 75%;
+		font-size: 0.9rem;
+	}
+	.search-box button {
+  		width: 25%;
+  		font-size: 0.7rem;
+  	}
+  	p.global {
+		font-size: 1rem;
+	}
+	.flag-country {
+		font-size: 0.65rem;
+	}
+	.index p {
+		font-size: 0.55rem;
+	}
+	.triangle-left {
+		border-top: 6px solid transparent;
+		border-right: 8px solid #959FB0;
+		border-bottom: 6px solid transparent;
+	}
+	.triangle-right {
+		border-top: 6px solid transparent;
+		border-left: 8px solid #959FB0;
+		border-bottom: 6px solid transparent;
+	}
+	.navigation {
+		font-size: 0.7rem;
+	}
+	.footer-label a, .footer-label p {
+  		font-size: 16px;
+	}
+}
+@media (min-width: 490px) and (max-width: 767px){
+	.header-container {
+		height: 60px;
+	}
+	.header-laber {
+		font-size: 0.75rem;
+	}
+	.button-cicle {
+		width: 15px;
+		height: 15px;
+	}
+	.dock-element1-header {
+		font-size: 0.55rem;
+	}
+	.dock-element1-footer {
+		font-size: 0.7rem;	
+	}
+	.dock-element2-top {
+		height: 15%;
+		font-size: 0.55rem;
+	}
+	.text-top-header {
+		width: 96%;
+		height: 100%;
+		word-wrap: break-word;
+	}
+	.dock-element2-bottom {
+		height: 80%;
+		font-size: 0.6rem;
+	}
+	.navigation-country {
+		width: 75%;
+		font-size: 0.38rem;
+	}
+	.dock-element2-bottom-text {
+		height: 13%;
+		word-wrap: break-word;
+	}
+	.name-legend {
+		font-size: 0.8rem;
+	}
+	.cicle-red, .cicle-green,.cicle-yellow {
+		width: 14px;
+		height: 14px;
+	}
+	.text-legend {
+		font-size: 0.6rem;
+	}
+	.navigation-map {
+		font-size: 0.7rem;
+	}
+	.search-box {
+		height: 8%;
+	}
+	.search-box input {
+		width: 70%;
+		font-size: 0.75rem;
+	}
+	.search-box button {
+  		width: 30%;
+  		font-size: 0.6rem;
+  	}
+  	.dock-element4 {
+  		height: 90%;
+  	}
+  	.dock-element4-left-top {
+		height: 15%;
+	}
+  	p.global {
+		font-size: 0.75rem;
+	}
+	.flag-country {
+		font-size: 0.5rem;
+		word-wrap: break-word;
+	}
+	.index p {
+		font-size: 0.45rem;
+	}
+	.triangle-left {
+		border-top: 5px solid transparent;
+		border-right: 7px solid #959FB0;
+		border-bottom: 5px solid transparent;
+	}
+	.triangle-right {
+		border-top: 5px solid transparent;
+		border-left: 7px solid #959FB0;
+		border-bottom: 5px solid transparent;
+	}
+	.navigation {
+		font-size: 0.7rem;
+	}
+	.footer-container {
+		height: 40px;
+	}
+	.footer-label {
+		width: 65%;
+	}
+	.footer-label a, .footer-label p {
+  		font-size: 14px;
+	}
+	.img-school {
+  		width: 30px;
+  		height: 30px;
+	}
+}
